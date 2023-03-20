@@ -1,5 +1,5 @@
 # mapty
-website : https://harshayadav1.github.io/mapty/
+website : https://github.com/sashianney/mapty 
 1. log your running workouts with location,distance,time,pace,speed/minute.
 2. log your cycling workouts with location,distance,time,speed and elevation.
 3. see all your workouts at a glance.
